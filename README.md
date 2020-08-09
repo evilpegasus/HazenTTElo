@@ -1,6 +1,8 @@
 # HazenTTElo
 An [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) ranking system for the [Hazen Table Tennis Club](https://www.facebook.com/groups/HazenTT/) using [this](https://github.com/HankSheehan/EloPy) Python library.
 
+Provides an interface for the EloPy library and an excel spreadsheet for tracking matches.
+
 <strong>WORK IN PROGRESS</strong>
 
 # Usage
